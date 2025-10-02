@@ -56,4 +56,4 @@
 
 ![alt text](https://github-contributor-stats.vercel.app/api?username=Jurnest&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![alt text](https://visitcount.itsvg.in/api?id=Jurnest&icon=3&color=4)
+![Profile Views](https://komarev.com/ghpvc/?username=Jurnest)
